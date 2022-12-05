@@ -68,7 +68,7 @@ We have to use Bot for Inline Search & Userbot for Searching in Channels. So bot
 <br/>
 
 <p align="left">
-<a href="https://railway.app/deploy?template=https://github.com/RoyalKrrishna/MdiskWalaBot"">
+<a href="https://railway.app/deploy?template=https://github.com/Babnget/meks"">
      <img height="30px" src="https://railway.app/button.svg">
   </a>
 </p>
